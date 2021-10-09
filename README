@@ -1,0 +1,6 @@
+App: repo_stats.py
+Utilises PyGitHub library: https://github.com/PyGithub/PyGithub
+Environment variables:
+  GITHUB_TOKEN  GitHub API access token with push privilege
+  GITHUB_REPO   GitHub repository name (owner/repository) or id
+ 
